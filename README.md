@@ -3,7 +3,7 @@ Hyperskill AI Tic-Tac-Toe Project
 
 Commands take in 3 words separated by spaces
 
-# Sample Outputs
+# Sample Command Inputs
 start user easy
 
 start user medium
